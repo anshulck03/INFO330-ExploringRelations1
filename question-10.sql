@@ -1,0 +1,1 @@
+insert into persons values ('Angielena', 'Luong', 'aluong8@uw.edu', 'Female', 'Ms', 20, '1201 NE Campus Pkwy', 'Seattle', 'Washington', 98105, '702-885-1842');
